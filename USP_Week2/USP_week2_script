@@ -1,0 +1,51 @@
+Script started on Tue Nov 15 20:03:41 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 ~ % [K[?2004hccd Desktop/USP_we  Week2[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hlls[?2004l
+file1_renamed	file2		sub_dir1.1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hmmv fiel  le* sub_dir            m  lls sub_dir1.1[?2004l
+file1			file2			list of students
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hccd sub_dir11 .1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2/sub_dir1.1[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 sub_dir1.1 % [K[?2004hmmbm mv file* ../[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2/sub_dir1.1[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 sub_dir1.1 % [K[?2004hccd ../[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004h; lls[?2004l
+file1		file1_renamed	file2		sub_dir1.1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hmmc m mv sub_S dir1.1 sub_dir[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hlls[?2004l
+file1		file1_renamed	file2		sub_dir
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004httyp t  ffile fiel2  l  le2[?2004l
+file2: ASCII text
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hwwc -l file1[?2004l
+       1 file1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hood -bc file e1[?2004l
+0000000   150 151 012                                                    
+           h   i  \n                                                    
+0000003
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hccat>cpm_   mp_1[?2004l
+HI, LINE 1
+^D[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hcat>cmp_1 2[?2004l
+Hi, Line 1
+^D[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hccmp f cmp_1 cmp_2[?2004l
+cmp_1 cmp_2 differ: char 2, line 1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hccomm cmp_1 cmp_2[?2004l
+HI, LINE 1
+	Hi, Line 1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hddiff cmp_1 cmp_2[?2004l
+1c1
+< HI, LINE 1
+---
+> Hi, Line 1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hggzip cmp_1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hlls[?2004l
+cmp_1.gz	file1		file2
+cmp_2		file1_renamed	sub_dir
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hggunzip f cmp_1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hgunzip cmp_1[12Dls          [10Dgzip cmp_1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004hgzip cmp_1[10D          [10Dgzip cmp_1[10Dgunzip cmp_1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://umangs-MacBook-Air-2.local/Users/umanggoel/Desktop/USP_Week2[0m[27m[24m[Jumanggoel@umangs-MacBook-Air-2 USP_Week2 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Nov 15 20:07:37 2022
